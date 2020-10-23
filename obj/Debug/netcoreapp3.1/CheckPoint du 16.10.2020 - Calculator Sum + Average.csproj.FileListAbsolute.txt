@@ -1,0 +1,13 @@
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.exe
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.deps.json
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.runtimeconfig.json
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.runtimeconfig.dev.json
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.dll
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.pdb
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.csprojAssemblyReference.cache
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.AssemblyInfoInputs.cache
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.AssemblyInfo.cs
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.dll
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.pdb
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Calculator Sum + Average.genruntimeconfig.cache
